@@ -3,7 +3,7 @@
     <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
-
+aeham79750@gmail.com
 <h3 align="center">Bootstrap</h3>
 
 <p align="center">
@@ -43,6 +43,7 @@ Our default branch is for development of our upcoming Bootstrap 5 release. Head 
 
 
 ## Quick start
+aeham79750@gmail.com
 
 Several quick start options are available:
 
@@ -76,12 +77,13 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.0/getting-starte
 [![Backers on Open Collective](https://img.shields.io/opencollective/backers/bootstrap)](#backers)
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap)](#sponsors)
 
-
+aeham79750@gmail.com
 ## What's included
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```text
+aeham79750@gmail.com
 bootstrap/
 ├── css/
 │   ├── bootstrap-grid.css
@@ -125,14 +127,14 @@ bootstrap/
     ├── bootstrap.esm.js.map
     ├── bootstrap.esm.min.js
     ├── bootstrap.esm.min.js.map
-    ├── bootstrap.js
+    ├── bootstrap.jsaeham79750@gmail.com
     ├── bootstrap.js.map
-    ├── bootstrap.min.js
+    ├── <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     └── bootstrap.min.js.map
 ```
 
 We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/).
-
+aeham79750@gmail.com
 
 ## Bugs and feature requests
 
@@ -226,7 +228,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 [![OC sponsor 8](https://opencollective.com/bootstrap/sponsor/8/avatar.svg)](https://opencollective.com/bootstrap/sponsor/8/website)
 [![OC sponsor 9](https://opencollective.com/bootstrap/sponsor/9/avatar.svg)](https://opencollective.com/bootstrap/sponsor/9/website)
 
-
+aeham79750@gmail.com
 ## Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/bootstrap#backer)]
@@ -236,4 +238,4 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 ## Copyright and license
 
-Code and documentation copyright 2011–2021 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2011–2021 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).aeham79750@gmail.com
